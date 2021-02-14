@@ -1,2 +1,5 @@
 # OK2020
-Projekt polega na zbadaniu różnych metod rozwiązania klasycznego dyskretnego problemu plecakowego (eng. Knapsack problem 0-1) i implementacji programu, rozwiązującego problem plecakowy. W tym celu zostali zaprojektowane dokładne i aproksymacyjne algorytmy w języku Python.
+Python script for solving 0-1 knapsack problem with different methods.
+
+Run: python main.py [flags]
+To see flags use "-h"

@@ -1,7 +1,6 @@
 from generator import randomArray
 from time import time
 from algorithms import dynamic,greedy,bruteforce,genetic
-import matplotlib.pyplot as plt 
 import argparse
 
 #method names
